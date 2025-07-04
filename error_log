@@ -1,0 +1,50 @@
+[21-Jul-2023 11:59:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/hzn1689408872/public_html/libs/db.php:17
+Stack trace:
+#0 /home/hzn1689408872/public_html/libs/db.php(29): DB->connect()
+#1 /home/hzn1689408872/public_html/index.php(10): DB->site('status')
+#2 {main}
+  thrown in /home/hzn1689408872/public_html/libs/db.php on line 17
+[21-Jul-2023 12:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/hzn1689408872/public_html/libs/db.php:17
+Stack trace:
+#0 /home/hzn1689408872/public_html/libs/db.php(29): DB->connect()
+#1 /home/hzn1689408872/public_html/index.php(10): DB->site('status')
+#2 {main}
+  thrown in /home/hzn1689408872/public_html/libs/db.php on line 17
+[21-Jul-2023 12:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/hzn1689408872/public_html/libs/db.php:17
+Stack trace:
+#0 /home/hzn1689408872/public_html/libs/db.php(29): DB->connect()
+#1 /home/hzn1689408872/public_html/index.php(10): DB->site('status')
+#2 {main}
+  thrown in /home/hzn1689408872/public_html/libs/db.php on line 17
+[21-Jul-2023 12:01:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home/hzn1689408872/public_html/libs/db.php:17
+Stack trace:
+#0 /home/hzn1689408872/public_html/libs/db.php(29): DB->connect()
+#1 /home/hzn1689408872/public_html/index.php(10): DB->site('status')
+#2 {main}
+  thrown in /home/hzn1689408872/public_html/libs/db.php on line 17
+[21-Jul-2023 12:02:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::site() in /home/hzn1689408872/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hzn1689408872/public_html/index.php on line 10
+[21-Jul-2023 12:02:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB::site() in /home/hzn1689408872/public_html/index.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/hzn1689408872/public_html/index.php on line 10
+[21-Jul-2023 12:02:38 UTC] PHP Notice:  Undefined variable: getUser in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:02:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:02:56 UTC] PHP Notice:  Undefined variable: getUser in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:02:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:03:29 UTC] PHP Notice:  Undefined variable: getUser in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:03:29 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:05:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:23 UTC] PHP Notice:  Undefined variable: getUser in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:05:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/libs/db.php on line 31
+[21-Jul-2023 12:05:56 UTC] PHP Notice:  Undefined variable: getUser in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
+[21-Jul-2023 12:05:56 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hzn1689408872/public_html/resources/views/client/shop-account.php on line 655
